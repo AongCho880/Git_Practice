@@ -1,1 +1,2 @@
 This is text file one
+And this is another line
