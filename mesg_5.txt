@@ -1,1 +1,2 @@
 This is message 5
+New line in message 5
